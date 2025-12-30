@@ -7,14 +7,13 @@ A lightweight browser extension that automatically filters and blocks everything
 
 ### 1. Introduction
 
-The Riot Games Content Blocker browser extension ("the Extension") is committed to protecting your privacy. This Privacy Policy explains what information the Extension does and does not collect, and how it operates.
-
+Block Riot browser extension ("the Extension") is committed to protecting your privacy. This Privacy Policy explains what information the Extension does and does not collect, and how it operates.
 
 ### 2. No Data Collection
 
 The Extension does NOT collect, store, transmit, or share any personal data, browsing history, or any other information. Specifically:
 
-   1.  No Personal Information Collected: We do not collect your name, email address, location, IP address, or any personally identifiable information.
+   1.   No Personal Information Collected: We do not collect your name, email address, location, IP address, or any personally identifiable information.
    2.   No Browsing History: We do not track or store your browsing history, search queries, or visited websites.
    3.   No Content Data: We do not collect, store, or transmit any content from web pages you visit.
    4.   No Analytics: We do not use analytics tools, tracking pixels, or any monitoring software.
